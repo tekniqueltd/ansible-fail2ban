@@ -93,10 +93,3 @@ None
 
 MIT
 
-## Author Information
-
-Mischa ter Smitten (based on work of [ANXS](https://github.com/ANXS))
-
-## Feedback, bug-reports, requests, ...
-
-Are [welcome](https://github.com/Oefenweb/ansible-fail2ban/issues)!
